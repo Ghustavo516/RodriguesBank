@@ -20,7 +20,7 @@ Certifique-se de ter os seguintes requisitos instalados:
 
 1. Clone este repositório para o seu ambiente local.
 2. Abra um terminal ou prompt de comando e navegue até o diretório do projeto.
-3. Execute o arquivo `main.py` ou abra o arquivo .py em seu editor de codico preferido.
+3. Execute o arquivo `main.py` ou abra o arquivo `.py` em seu editor de codico preferido.
 4. Siga as instruções exibidas no console para interagir com o sistema de banco.
 
 ## Contribuição
